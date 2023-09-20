@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MAP PLACE.unity
     guid: 59d00e962c7f55d4e8a51c2f237e545c
   - enabled: 1
+    path: Assets/Scenes/LEVEL 1 DIALOGUE.unity
+    guid: 8f7110b790bc0e24badf78b01c18e871
+  - enabled: 1
     path: Assets/Scenes/LEVEL 1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
